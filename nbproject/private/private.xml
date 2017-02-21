@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="war">
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Background.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Barrel.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Mario.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/infra/SpritePixelCollider.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/DonkeyGame.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Spark.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/OilBarrel.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Hammer.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Barrels.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/BarrelJumpPointCollider.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Intro.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/FireEnemy.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/ScorePoint.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/infra/Display.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/DonkeyActor.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Donkey.java</file>
+        </group>
+        <group name="nfe3">
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/infra/Keyboard.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/IntroHowHigh.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/DonkeyGame.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/main/Main.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Mario.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Princess.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/OilBarrel.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/HUD.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Spark.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/infra/SpritePixelCollider.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Donkey.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/GameOver.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/LevelCleared.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/FireEnemy.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/BarrelJumpPointCollider.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Intro.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/infra/Display.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/ScorePoint.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/infra/Actor.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Barrel.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Hammer.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/infra/Game.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Title.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Barrels.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Initialization.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/actor/Background.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/DonkeyActor.java</file>
+            <file>file:/G:/Leo/apps/java/1981_donkey_kong/JavaDonkey/src/br/ol/donkey/infra/Time.java</file>
+        </group>
+    </open-files>
+</project-private>
